@@ -3,12 +3,4 @@ Adjusted Branch1 File
 
 Adjusted on branch2
 
-<<<<<<< HEAD
 Adjusted by OtherBranch(branch2)
-=======
-
-Adjusted by OwnerBranch
-
-Adjusted by OwnerBranch
-	Welcome
->>>>>>> main
