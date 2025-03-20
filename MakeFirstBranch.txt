@@ -1,2 +1,4 @@
-Make First Branch
+Adjusted by Other Branch
 Adjusted Branch1 File
+
+Adjusted on branch2
